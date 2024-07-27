@@ -369,7 +369,7 @@ curl --location 'http://localhost:6000/api/v1/functions/execute' --header 'Conte
 ```
 
 خروجی باید به شکل زیر باشد
-```console
+```
 {
   "code": "200",
   "request_id": "9660af22-54d0-4219-a1de-3677868b715f",
