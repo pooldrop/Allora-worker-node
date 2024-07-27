@@ -294,7 +294,6 @@ docker compose up -d --build
 
 
 ```console
-
 cd $HOME && cd basic-coin-prediction-node
 ```
 ```console
